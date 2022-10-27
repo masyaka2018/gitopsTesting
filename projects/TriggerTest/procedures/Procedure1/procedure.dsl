@@ -1,8 +1,5 @@
 
-procedure 'Procedure1 new', {
-  projectName = 'TriggerTest'
-}
-procedure 'Procedure2', {
+procedure 'Procedure1', {
   projectName = 'TriggerTest'
 }
 
