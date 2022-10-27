@@ -1,4 +1,4 @@
 
-procedure 'Procedure1', {
+procedure 'Procedure1 new', {
   projectName = 'TriggerTest'
 }
